@@ -1,6 +1,6 @@
 from skiplist_with_finger import SkiplistWithFinger
 
-def test_find(x):
+def test_find():
     f_sklist = SkiplistWithFinger()
     f_sklist.add(1)
     f_sklist.add(2)
